@@ -22,7 +22,7 @@ This repository explores two fascinating physical and mathematical properties of
 
 This repository contains:
 
-- 📓 **`CycloidsAnalysisNotebook.ipynb`** — A detailed Jupyter Notebook containing derivations, visualizations, and animations.
+- 📓 **`notebook.ipynb`** — A detailed Jupyter Notebook containing derivations, visualizations, and animations.
 - 📂 **`IMAGES/`** — Static figures and diagrams used throughout the notebook.
 - 📂 **`ANIMATION/`** — Rolling ball animations along cycloid, parabola, circular arc, and straight line.
 - 📄 **`requirements.txt`** — Python dependencies to run the notebook smoothly.
@@ -62,7 +62,7 @@ This repository contains:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Cycloid-Brachistochrone-Isochronous-Exploration.git
+git clone https://github.com/PuspenduPH/Cycloid-Brachistochrone-Isochronous-Exploration.git
 cd Cycloid-Brachistochrone-Isochronous-Exploration
 pip install -r requirements.txt
 ````
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 Then launch the notebook:
 
 ```bash
-jupyter notebook CycloidsAnalysisNotebook.ipynb
+jupyter notebook.ipynb
 ```
 
 ## 📎 License
