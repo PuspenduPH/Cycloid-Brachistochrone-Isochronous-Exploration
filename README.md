@@ -22,7 +22,7 @@ This repository explores two fascinating physical and mathematical properties of
 
 This repository contains:
 
-- 📓 **`cycloid_analysis.ipynb`** — A detailed Jupyter Notebook containing derivations, visualizations, and animations.
+- 📓 **`CycloidsAnalysisNotebook.ipynb`** — A detailed Jupyter Notebook containing derivations, visualizations, and animations.
 - 📂 **`IMAGES/`** — Static figures and diagrams used throughout the notebook.
 - 📂 **`ANIMATION/`** — Rolling ball animations along cycloid, parabola, circular arc, and straight line.
 - 📄 **`requirements.txt`** — Python dependencies to run the notebook smoothly.
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 Then launch the notebook:
 
 ```bash
-jupyter notebook cycloid_analysis.ipynb
+jupyter notebook CycloidsAnalysisNotebook.ipynb
 ```
 
 ## 📎 License
